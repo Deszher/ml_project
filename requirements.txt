@@ -1,2 +1,4 @@
-transformers
 pytest==7.4.3
+tensorflow==2.0
+torch==1.9.0
+transformers
